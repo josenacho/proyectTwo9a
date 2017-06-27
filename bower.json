@@ -1,0 +1,21 @@
+{
+  "name": "proyectTwo9a",
+  "homepage": "https://github.com/josenacho/proyectTwo9a",
+  "authors": [
+    "josenacho <zcyerryxcz_21@hotmail.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "fontawesome#^4.7.0",
+    "bootstrap": "boostrap#^3.3.7"
+  }
+}
